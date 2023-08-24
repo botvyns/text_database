@@ -22,3 +22,12 @@ The query will return:
 you specify the lemma, and when you specify the word form as the first
 parameter);
 3) the sentence number in the corresponding text.
+
+An example of searching by lemma (L) for lemma життя in the second text (second_t.db)
+
+![some text](https://github.com/botvyns/text_database/blob/main/Screenshot%202023-08-24%20at%2020.05.26.png)
+
+
+An example of searching by wordform (F) for wordform українського in the first text (first_t.db)
+
+![some text](https://github.com/botvyns/text_database/blob/main/Screenshot%202023-08-24%20at%2020.04.47.png)
